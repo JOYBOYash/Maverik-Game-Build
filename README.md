@@ -29,12 +29,12 @@ Race through the OpenSpace as you avoid Obstacles and perform cool space stunts 
 **Co-Ordinate Keys and make cool and stunning gameplays!**
 
 PC Controls - 
-A/D to control Ship Rotation along Z-axis, Great for making Cool Flips!
-Use mouse to look around and change ships's course.
-Right Mouse button for Xtra speed :D
+- A/D to control Ship Rotation along Z-axis, Great for making Cool Flips!
+- Use mouse to look around and change ships's course.
+- Right Mouse button for Xtra speed :D
 
 ## Installation:
-Download and Unzip, look for .exe file and then you're just ONE-CLICK away from creating/dominating your own race track!
+Download the file and Unzip, look for .exe file and then you're just ONE-CLICK away from creating/dominating your own race track!
 
 ## Credits:
 - **Sketchfab Models -**
